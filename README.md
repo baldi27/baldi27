@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @baldi27
+- 👀 I’m interested in cinema
+- 🌱 I’m currently learning golang
+- 📫 How to reach me: pm
